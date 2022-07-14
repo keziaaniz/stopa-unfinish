@@ -1,0 +1,27 @@
+a {
+    outline: medium none !important;
+    color: #da1d25;
+    -webkit-transition: all 0.3s ease-in-out;
+    transition: all 0.3s ease-in-out;
+    text-decoration: none !important; }
+    a:focus {
+      color: #da1d25;
+      text-decoration: none !important; }
+    a:hover {
+      color: #da1d25;
+      text-decoration: none !important; }
+  
+  input {
+    outline: medium none !important;
+    color: #da1d25; }
+
+
+.text-primary {
+    color: #da1d25 !important; }
+
+.swiper-button-next, .swiper-button-prev {
+    z-index: 8; }
+  
+
+
+

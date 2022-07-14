@@ -22,5 +22,5 @@
   },
   "include": [
     "src"
-  ]
+, "header/Header.js"  ]
 }
